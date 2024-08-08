@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+/* Basic Styling */
+body {
+    margin: 8px;
+    display: block;
+    font-family: Arial, sans-serif;
+ }
+ 
+ header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+ }
+ 
+ #mainHeading {
+    color: red;
+    font-size: 2em;
+ }
+ 
+ main {
+    padding: 20px;
+ }
+ 
+ article {
+    margin-bottom: 20px;
+ }
+ 
+ .funParagraph {
+    color: green;
+    font-size: 1.2em;
+ }
+ 
+ footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+ }
+ 
